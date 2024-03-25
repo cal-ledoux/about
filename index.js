@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'CodeNerve.txt';
+Typer.file = 'Intro_Page.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
@@ -111,11 +111,7 @@ function t() {
 
 document.onkeydown = function (e) {
     if (e.keyCode == 27) {
-        // fastforward text 
+        // fastforward text
         Typer.index = Typer.text.length;
     }
 }
-
-
-
-
