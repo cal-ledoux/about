@@ -3,11 +3,17 @@
 
 Hey There! This is a digital manifestation of Cal LeDoux.
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>As both as both an artist and researcher, Cal is interested in interconnected systems. In his artistic endeavors, this pushes him towards working at the interface between different tools, pushing them together to create interesting amalgamations. Recently, his interests lie in live coding interfaces and misappropriating scientific concepts and programs. In his scientific research, Cal works on modeling the relations between the systems of the Earth, hoping to improve our understanding of the feedbacks that govern the world, focusing predominantly on atmospheric and oceanic systems and their connections to climate change. Cal is a recent graduate of the University of Chicago with a B.S. in Geophysical Sciences. He is based out of Chicago and is working within the system as an Associate Consultant at Bain & Company. </p>
-<p>Most recently, Cal has worked on [outline the Synesthesia project and link]</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Resume and portfolio discussion here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>More personal stuff. Favorite books. Favorite music<br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+
+Most recently, Cal has worked on [outline the Synesthesia project and link] <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+Resume and portfolio discussion here<a href="link"> portfolio</a>.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+More personal stuff. Favorite books. Favorite music
+
+Give your project links or something like that. <a href="link"> Here you go</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> <br> <a href="link3">Profile3</a>.</p>
 
 <!-- slightdelayhere--> Feel free to send me an email at<!-- longlonglongcomment --><a href="cal2440ledoux@gmail.com">Email</a>.
 
-<p>Cheers!</p>
+Cheers!
