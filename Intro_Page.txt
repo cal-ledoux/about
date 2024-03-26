@@ -9,11 +9,11 @@
 
 Additionally, here are a couple of his favorite experimentations with p5.js. <br> <a href="https://editor.p5js.org/KalElofKrypton/full/HWatt2tJb8"> Boids</a> <br> <a href="https://editor.p5js.org/KalElofKrypton/full/nj4bhBnNR"> Abstract Visualizer</a>
 
-Long term, Cal is passionate about working to preserve the Earth and all its beauty. Here is a <a href="https://docs.google.com/document/d/1Z-eVG8awBYetrCcKMqoGBYkuR6Tlb_h_IeRPQlnW4PI/edit?usp=sharing"> snapshot</a> of his journey with this goal in mind.
+In the long term, Cal is passionate about working to preserve the Earth and all its beauty. Here is a <a href="https://docs.google.com/document/d/1Z-eVG8awBYetrCcKMqoGBYkuR6Tlb_h_IeRPQlnW4PI/edit?usp=sharing"> snapshot</a> of his journey with this goal in mind.
 
 Here are a couple of his other online presences: <br> <a href="https://www.linkedin.com/in/cal-ledoux-8b9099202/">LinkedIn</a> <br> <a href="https://www.instagram.com/cal_ledoux/">Instagram</a>
 
-<!-- slightdelayhere--> Feel free to send me an email at <!-- longlonglongcomment --><a href="cal2440ledoux@gmail.com"> Email</a>.
+<!-- slightdelayhere--> Feel free to send me an email at <!-- longlonglongcomment --><a href="malito:cal2440ledoux@gmail.com"> Email</a>.
 
 In his free time, Cal enjoys <a href="https://www.youtube.com/watch?v=uo2RsX2lASg">rock climbing</a>, crossword puzzles, and reading. Some of his favorite recent reads are Mount Analogue by René Daumal and the Futurological Congress by Stanislaw Lem.
 
